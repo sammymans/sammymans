@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 Mechatronics Engineering & Business at Western University and Ivey Business School
+📚 Mechatronics Engineering & Business at Western University and Ivey Business School <br/>
 😈 Just somewhere to see my code so I have space for video games on my local
 
 ### My Stats:
