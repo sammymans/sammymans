@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 📚 Mechatronics Engineering & Business at Western University and Ivey Business School <br/>
-😈 Just somewhere to see my code so I have space for video games on my local
+📫 sfarnum1132@gmail.com
 
 ### My Stats:
 
