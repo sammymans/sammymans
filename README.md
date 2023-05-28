@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 Mechatronics Engineering & Business at Western University and Ivey Business School <br/>
+📚 Engineering & Business at Western University and Ivey Business School <br/>
 📫 sfarnum1132@gmail.com
 
 ### My Stats:
